@@ -4,7 +4,7 @@
 This project focuses on analyzing the stock performance of leading tech companies: Apple, Microsoft, Amazon, Google, and other major players. The goal is to provide insights into their stock trends, growth patterns, and market dynamics over recent years.
 
 ## Data Source
-The data used for this analysis comes from ["Kaggle"](https://www.kaggle.com/datasets/beeru999/amazon-microsoft-apple-google-stocks-data?select=AMZN_data.csv) website.
+The data used for this analysis comes from [Kaggle](https://www.kaggle.com/datasets/beeru999/amazon-microsoft-apple-google-stocks-data?select=AMZN_data.csv) website.
 
 ## Companies Analyzed
 - **Apple (AAPL):** Explore how product innovation and market strategy have influenced Apple's stock.
