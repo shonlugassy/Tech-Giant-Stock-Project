@@ -1,4 +1,4 @@
-# Tech Giant Stock Project (AAPL,AMZN,GOOG,MSFT.)
+# Tech Giant Stock Project (AAPL,AMZN,GOOG,MSFT)
 
 ## Introduction
 This project focuses on analyzing the stock performance of leading tech companies: Apple, Microsoft, Amazon, Google, and other major players. The goal is to provide insights into their stock trends, growth patterns, and market dynamics over recent years.
