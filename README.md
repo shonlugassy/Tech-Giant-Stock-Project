@@ -34,5 +34,12 @@ The data used for this analysis comes from ["Kaggle"](https://www.kaggle.com/dat
 
 
 ## Results
+Key findings from the analysis include:
+- Consistent Growth Patterns: Identification of consistent growth patterns in stock values for major tech companies.
+- Key Drivers of Stock Performance: Insights into the factors driving stock performance, such as product innovation, market expansion, and strategic acquisitions.
+- Comparative Stock Trends: Detailed comparison of stock trends across Apple, Microsoft, Amazon, and Google.
+- Peak Growth Periods: Recognition of peak growth periods and the events or initiatives that contributed to these surges.
+- Investment Insights: Valuable insights for investors on the stock performance and potential future trends of leading tech giants.
+
 
 
