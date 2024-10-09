@@ -26,7 +26,7 @@ The data used for this analysis comes from [Kaggle](https://www.kaggle.com/datas
 - Data cleaning and formating.
  
 
-  ## Data Analysis Tools
+  ## Data Analysis
 - Excel - Data Cleaning [click here to Excel file](https://github.com/shonlugassy/Tech-Giant-Stock-Project/blob/main/Tech%20Giants%20Stock%20Data%20project/TechGiants_TBLS.xlsx)
 - SQL - Data Analysis Queries [click here to SQL file](https://github.com/shonlugassy/Tech-Giant-Stock-Project/blob/main/Tech%20Giants%20Stock%20Data%20project/TechGiantsQuerysAnalysis.sql)
 - Power BI - Visualize Dashboard - [click here to see the Dashboard](https://github.com/shonlugassy/Tech-Giant-Stock-Project/blob/main/Tech%20Giants%20Stock%20Data%20project/Tech%20Giants%20Stock%20KPI.pbix)
